@@ -1,0 +1,7 @@
+Flask==0.10.1
+python-twitter==3.2.1
+twitter==1.17.1
+Jinja2==2.9.6
+Mako==1.0.3
+gunicorn==19.7.1
+
